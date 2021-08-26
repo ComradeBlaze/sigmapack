@@ -2,11 +2,11 @@ Hi, this is sigmapack™️. Created by sigma_turbine.
 
 It's awful. Don't have high expectations.
 
-Thanks for checking it out.
-
 You may need to extract the pack to get it to work. 
 
 If you have any questions, complaints, or compliments you can contact me on Discord at @ComradeBlaze#4567
+
+Thanks for checking it out.
 
 (may induce brain damage)
 
