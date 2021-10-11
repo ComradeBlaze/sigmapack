@@ -17,3 +17,5 @@ VERSIONS AVAILABLE:
 1.16v0.2 - First public release 
 
 1.17v0.2 - Updated for 1.17, new tweaks added
+
+1.17v0.3 - Bug fixes and updated textures, minor new content. Latest release. 
