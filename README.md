@@ -9,7 +9,7 @@ If you have any questions, complaints, or compliments you can contact me on Disc
 Thanks for checking it out.
 
 ============================================
-**But sigma, what the fuck is this thing? Is this a virus? Will it kill me?
+But sigma, what the fuck is this thing? Is this a virus? Will it kill me?
 ============================================
 
 Boy, I sure hope so! (It won't, although it may hurt.)
