@@ -8,9 +8,9 @@ If you have any questions, complaints, or compliments you can contact me on Disc
 
 Thanks for checking it out.
 
-============================================
+==========================================
 But sigma, what the fuck is this thing? Is this a virus? Will it kill me?
-============================================
+==========================================
 
 Boy, I sure hope so! (It won't, although it may hurt.)
 
@@ -20,9 +20,9 @@ I won't post any previews becuase it's funnier to experience it for yourself.
 
 (Also cause I'm a lazy mf and don't have any compelation pictures of everything changed.)
 
-============================================
+==========================================
 VERSIONS AVAILABLE:
-============================================
+==========================================
 
 1.16v0.2 - First public release 
 
