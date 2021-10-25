@@ -19,7 +19,7 @@ This pack mostly modifies mob, item, and gui textures as well as sound files.
 
 I won't post any previews becuase it's funnier to experience it for yourself.
 
-(Also cause I'm a lazy mf and don't have any compelation pictures of everything changed.)
+(Also cause I'm a lazy mf and don't have any compilation pictures of everything changed.)
 
 
 **VERSIONS AVAILABLE:**
