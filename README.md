@@ -3,7 +3,7 @@
 
 It's awful. Don't have high expectations.
 
-You may need to extract the pack to get it to work. 
+You may need to extract the pack to get it to work. Language should be set to English (US) for funny item names.
 
 If you have any questions, complaints, or compliments you can contact me on Discord at @ComradeBlaze#9807
 
