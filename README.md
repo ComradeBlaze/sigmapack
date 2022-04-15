@@ -31,4 +31,6 @@ I won't post any previews becuase it's funnier to experience it for yourself.
 
 1.17v0.3 - Bug fixes and updated textures, minor new content
 
-1.18v0.3 - Updated for 1.18, new splashes. Latest release
+1.18v0.3 - Updated for 1.18, new splashes. 
+
+1.18v0.4 - New textures, splashes, gui overhaul. Latest release
