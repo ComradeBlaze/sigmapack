@@ -1,5 +1,7 @@
-**Hi, this is sigmapack™️. Created by sigma_turbine.**
+**Hi, this is sigmapack™️.**
 ============================================
+
+Created by sigma_turbine.
 
 It's awful. Don't have high expectations.
 
@@ -10,22 +12,22 @@ If you have any questions, complaints, or compliments you can contact me on Disc
 Thanks for checking it out.
 
 
-**But sigma, what the fuck is this thing? Is this a virus? Will it kill me?**
+**But sigma, the fuck is this thing? Is this a virus? Will it kill me?**
 ============================================
 
-Boy, I sure hope so! (It won't, although it may hurt.)
+Boy, I sure hope so! (It won't, although it may emotinally hurt.)
 
 This pack mostly modifies mob, item, and gui textures as well as sound files.
 
 I won't post any previews becuase it's funnier to experience it for yourself.
 
-(Also cause I'm a lazy mf and don't have any compilation pictures of everything changed.)
+(And also cause I'm a lazy mf and don't have any compilation pictures of everything changed, and making such pictures is boring as hell.)
 
 
 **VERSIONS AVAILABLE:**
 ============================================
 
-1.16v0.2 - First public release 
+1.16v0.2 - First public release (not available in releases tab, dm me for files)
 
 1.17v0.2 - Updated for 1.17, new tweaks added
 
@@ -33,4 +35,4 @@ I won't post any previews becuase it's funnier to experience it for yourself.
 
 1.18v0.3 - Updated for 1.18, new splashes. 
 
-1.18v0.4 - New textures, splashes, gui overhaul. Latest release
+1.18v0.4 - New textures, splashes, gui overhaul. **Latest release**.
