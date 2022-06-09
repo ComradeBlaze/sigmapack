@@ -1,7 +1,7 @@
-**Hi, this is sigmapack™️.**
-============================================
+# Hi, this is sigmapack.
+ᵖᵃᵗᵉⁿᵗ ᵖᵉⁿᵈᶦⁿᵍ
 
-Created by sigma_turbine.
+### Created by sigma_turbine.
 
 It's awful. Don't have high expectations.
 
@@ -12,27 +12,25 @@ If you have any questions, complaints, or compliments you can contact me on Disc
 Thanks for checking it out.
 
 
-**But sigma, the fuck is this thing? Is this a virus? Will it kill me?**
-============================================
-
-Boy, I sure hope so! (It won't, although it may emotinally hurt.)
-
-This pack mostly modifies mob, item, and gui textures as well as sound files.
-
-I won't post any previews becuase it's funnier to experience it for yourself.
-
-(And also cause I'm a lazy mf and don't have any compilation pictures of everything changed, and making such pictures is boring as hell.)
+## But sigma, the fuck is this thing? Is this a virus? Will it kill me?
 
 
-**VERSIONS AVAILABLE:**
-============================================
+Boy, I sure hope so! It won't, although it may emotionally hurt.
 
-1.16v0.2 - First public release (not available in releases tab, dm me for files)
+This pack mostly modifies mob, item, and gui textures as well as some sound files.
 
-1.17v0.2 - Updated for 1.17, new tweaks added
+I won't post any previews becuase it's better to experience it for yourself.
 
-1.17v0.3 - Bug fixes and updated textures, minor new content
 
-1.18v0.3 - Updated for 1.18, new splashes. 
+## VERSIONS AVAILABLE:
 
-1.18v0.4 - New textures, splashes, gui overhaul. **Latest release**.
+
+	1.16v0.2 - First public release (not available in releases tab, dm me for files)
+
+	1.17v0.2 - Updated for 1.17, new tweaks added
+
+	1.17v0.3 - Bug fixes and updated textures, minor new content
+
+	1.18v0.3 - Updated for 1.18, new splashes. 
+
+	1.18v0.4 - New textures, splashes, gui overhaul. **Latest release**.
