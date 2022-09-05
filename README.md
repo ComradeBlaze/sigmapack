@@ -33,4 +33,6 @@ I won't post any previews becuase it's better to experience it for yourself.
 
 	1.18v0.3 - Updated for 1.18, new splashes. 
 
-	1.18v0.4 - New textures, splashes, gui overhaul. **Latest release**.
+	1.18v0.4 - New textures, splashes, gui overhaul. 
+	
+	1.19v0.5 - New mobs, splashes, bugfixes. **Latest release**
