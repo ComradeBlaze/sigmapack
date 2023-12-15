@@ -1,4 +1,4 @@
-Hi! This is SigmaPack, the crappiest texture pack known to man. 
+Hi! This is SigmaPack, the crappiest texture pack known to mankind. 
 
 I'm sigma_turbine, and I made this godawful piece of crap. I would say I'm proud of it but my ego would be hurt at such an accusation.
 
