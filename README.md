@@ -35,4 +35,6 @@ I won't post any previews becuase it's better to experience it for yourself.
 
 	1.18v0.4 - New textures, splashes, gui overhaul. 
 	
-	1.19v0.5 - New mobs, splashes, bugfixes. **Latest release**
+	1.19v0.5 - New mobs, splashes, bugfixes. 
+
+	0.6+mc1.20.2 - New mobs, bugfixes, idk **Latest release**
